@@ -3,4 +3,3 @@ Austria
 Switzerland
 Belgium
 Netherlands
-Norway
