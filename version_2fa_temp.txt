@@ -1,1 +1,1 @@
-1.0.2,v1.1,appletv_2fa_v1.0.2.exe
+1.0.3,v1.1,appletv_2fa_v1.0.3.exe
