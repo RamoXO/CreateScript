@@ -1,1 +1,1 @@
-1.1.6,v1.1,appletv_temp_v1.1.6.exe
+1.1.7,v1.1,appletv_temp_v1.1.7.exe
